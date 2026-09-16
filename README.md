@@ -25,4 +25,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/kundan2678-stack/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/kundan2678-stack/Leetcode-Solutions/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
