@@ -65,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/kundan2678-stack/Leetcode-Solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/kundan2678-stack/Leetcode-Solutions/tree/master/0268-missing-number) |
+## String
+|  |
+| ------- |
+| [0058-length-of-last-word](https://github.com/kundan2678-stack/Leetcode-Solutions/tree/master/0058-length-of-last-word) |
 <!---LeetCode Topics End-->
