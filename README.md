@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/kundan2678-stack/Leetcode-Solutions/tree/master/0867-transpose-matrix) |
+| [3498-reverse-degree-of-a-string](https://github.com/kundan2678-stack/Leetcode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -69,4 +70,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/kundan2678-stack/Leetcode-Solutions/tree/master/0058-length-of-last-word) |
+| [3498-reverse-degree-of-a-string](https://github.com/kundan2678-stack/Leetcode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
