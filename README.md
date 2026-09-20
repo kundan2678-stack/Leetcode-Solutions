@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/kundan2678-stack/Leetcode-Solutions/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/kundan2678-stack/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/kundan2678-stack/Leetcode-Solutions/tree/master/0136-single-number) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kundan2678-stack/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/kundan2678-stack/Leetcode-Solutions/tree/master/0268-missing-number) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/kundan2678-stack/Leetcode-Solutions/tree/master/0007-reverse-integer) |
+| [0066-plus-one](https://github.com/kundan2678-stack/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/kundan2678-stack/Leetcode-Solutions/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
