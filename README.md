@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/kundan2678-stack/Leetcode-Solutions/tree/master/0867-transpose-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/kundan2678-stack/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1572-matrix-diagonal-sum](https://github.com/kundan2678-stack/Leetcode-Solutions/tree/master/1572-matrix-diagonal-sum) |
+| [3524-find-x-value-of-array-i](https://github.com/kundan2678-stack/Leetcode-Solutions/tree/master/3524-find-x-value-of-array-i) |
 ## Matrix
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/kundan2678-stack/Leetcode-Solutions/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/kundan2678-stack/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/kundan2678-stack/Leetcode-Solutions/tree/master/0268-missing-number) |
+| [3524-find-x-value-of-array-i](https://github.com/kundan2678-stack/Leetcode-Solutions/tree/master/3524-find-x-value-of-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -73,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0058-length-of-last-word](https://github.com/kundan2678-stack/Leetcode-Solutions/tree/master/0058-length-of-last-word) |
 | [3498-reverse-degree-of-a-string](https://github.com/kundan2678-stack/Leetcode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3524-find-x-value-of-array-i](https://github.com/kundan2678-stack/Leetcode-Solutions/tree/master/3524-find-x-value-of-array-i) |
 <!---LeetCode Topics End-->
