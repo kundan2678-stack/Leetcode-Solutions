@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/kundan2678-stack/Leetcode-Solutions/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/kundan2678-stack/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/kundan2678-stack/Leetcode-Solutions/tree/master/0268-missing-number) |
+| [2235-add-two-integers](https://github.com/kundan2678-stack/Leetcode-Solutions/tree/master/2235-add-two-integers) |
 | [2396-strictly-palindromic-number](https://github.com/kundan2678-stack/Leetcode-Solutions/tree/master/2396-strictly-palindromic-number) |
 | [3524-find-x-value-of-array-i](https://github.com/kundan2678-stack/Leetcode-Solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/kundan2678-stack/Leetcode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
